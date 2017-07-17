@@ -27,6 +27,7 @@
 * <b>Illiteracy Program</b>: In two decades our services will no longer be needed.
 * <b>In Touch Ministries</b>: proclaiming the Gospel of Jesus Christ to people in every country of the world.
 * <b>Instagram</b>: Capture and Share the World’s Moments
+* <b>Intel</b>: If it is smart and connected, it is best with Intel
 * <b>Khan Academy</b>: To provide a free world-class education to anyone anywhere.
 * <b>Kiva</b>: We envision a world where all people – even in the most remote areas of the globe – hold the power to create opportunity for themselves and others.
 * <b>Leukemia & Lymphoma Society</b>: Cure leukemia, lymphoma, Hodgkin’s disease and myeloma, and improve the quality of life of patients and their families.
