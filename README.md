@@ -18,6 +18,7 @@
 * <b>Creative Commons</b>: Nothing less than realizing the full potential of the Internet — universal access to research and education, full participation in culture — to drive a new era of development, growth, and productivity.
 * <b>Disney</b>: To make people happy.
 * <b>Ducks Unlimited:</b> is wetlands sufficient to fill the skies with waterfowl today, tomorrow and forever.
+* <b>Facebook</b>: People use Facebook to stay connected with friends and family, to discover what’s going on in the world, and to share and express what matters to them
 * <b>Feeding America</b>: A hunger-free America
 * <b>Goodwill</b>: Every person has the opportunity to achieve his/her fullest potential and participate in and contribute to all aspects of life.
 * <b>Google</b>: To provide access to the world’s information in one click.
