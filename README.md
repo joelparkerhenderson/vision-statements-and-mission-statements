@@ -18,6 +18,7 @@
 * <b>Creative Commons</b>: Nothing less than realizing the full potential of the Internet — universal access to research and education, full participation in culture — to drive a new era of development, growth, and productivity.
 * <b>Disney</b>: To make people happy.
 * <b>Ducks Unlimited:</b> is wetlands sufficient to fill the skies with waterfowl today, tomorrow and forever.
+* <b>Facebook</b>: People use Facebook to stay connected with friends and family, to discover what’s going on in the world, and to share and express what matters to them
 * <b>Feeding America</b>: A hunger-free America
 * <b>Goodwill</b>: Every person has the opportunity to achieve his/her fullest potential and participate in and contribute to all aspects of life.
 * <b>Google</b>: To provide access to the world’s information in one click.
@@ -26,6 +27,7 @@
 * <b>Illiteracy Program</b>: In two decades our services will no longer be needed.
 * <b>In Touch Ministries</b>: proclaiming the Gospel of Jesus Christ to people in every country of the world.
 * <b>Instagram</b>: Capture and Share the World’s Moments
+* <b>Intel</b>: If it is smart and connected, it is best with Intel
 * <b>Khan Academy</b>: To provide a free world-class education to anyone anywhere.
 * <b>Kiva</b>: We envision a world where all people – even in the most remote areas of the globe – hold the power to create opportunity for themselves and others.
 * <b>Leukemia & Lymphoma Society</b>: Cure leukemia, lymphoma, Hodgkin’s disease and myeloma, and improve the quality of life of patients and their families.
@@ -46,6 +48,7 @@
 * <b>San Diego Zoo</b>: To become a world leader at connecting people to wildlife and conservation.
 * <b>Save the Children</b>: A world in which every child attains the right to survival, protection, development and participation.
 * <b>Smithsonian</b>: Shaping the future by preserving our heritage, discovering new knowledge, and sharing our resources with the world
+* <b>Sony</b>: Our vision is to use our passion for technology, content and services to deliver kando, in ways that only Sony can
 * <b>Special Olympics</b>: To transform communities by inspiring people throughout the world to open their minds, accept and include people with intellectual disabilities and thereby anyone who is perceived as different.
 * <b>Teach for America</b>: One day, all children in this nation will have the opportunity to attain an excellent education.
 * <b>The Nature Conservancy</b>: To leave a sustainable world for future generations.
