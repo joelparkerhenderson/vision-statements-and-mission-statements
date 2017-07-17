@@ -48,6 +48,7 @@
 * <b>San Diego Zoo</b>: To become a world leader at connecting people to wildlife and conservation.
 * <b>Save the Children</b>: A world in which every child attains the right to survival, protection, development and participation.
 * <b>Smithsonian</b>: Shaping the future by preserving our heritage, discovering new knowledge, and sharing our resources with the world
+* <b>Sony</b>: Our vision is to use our passion for technology, content and services to deliver kando, in ways that only Sony can
 * <b>Special Olympics</b>: To transform communities by inspiring people throughout the world to open their minds, accept and include people with intellectual disabilities and thereby anyone who is perceived as different.
 * <b>Teach for America</b>: One day, all children in this nation will have the opportunity to attain an excellent education.
 * <b>The Nature Conservancy</b>: To leave a sustainable world for future generations.
