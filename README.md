@@ -60,6 +60,8 @@
 
 <b>Coinbase</b>
 
+* Vision: Digital currency will bring about more innovation, efficiency, and equality of opportunity in the world by creating an open financial system.
+
 * Mission: Create an open financial system for the world.
 
 <b>Cold Stone Creamery</b>
