@@ -2,7 +2,9 @@
 
 <b>Amazon</b>
 
-* To be the world’s most customer-centric company.
+* Vision: To be Earth’s most customer-centric company, where customers can find and discover anything they might want to buy online.
+
+* Mission: We strive to offer our customers the lowest possible prices, the best available selection, and the utmost convenience.
 
 <b>Amnesty International</b>
 
