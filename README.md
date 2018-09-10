@@ -2,11 +2,11 @@
 
 <b>Amazon</b>
 
-To be the world’s most customer-centric company.
+* To be the world’s most customer-centric company.
 
 <b>Amnesty International</b>
 
-A world in which every person enjoys all of the human rights enshrined in the Universal Declaration of Human Rights and other international human rights instruments.
+* A world in which every person enjoys all of the human rights enshrined in the Universal Declaration of Human Rights and other international human rights instruments.
 
 <b>AOL</b>
 
@@ -38,13 +38,11 @@ A world in which every person enjoys all of the human rights enshrined in the Un
 
 <b>Capgemini</b>
 
+* The business value of technology comes from and through people.
 
-* Vision: the business value of technology comes from and through people.
-* Mission: with you, we create and deliver business and technology solutions that fit your needs and drive the results you want.
+<b>charity:water</b>
 
-<b>charity</b>
-
-* water believes that we can end the water crisis in our lifetime by ensuring that every person on the planet has access to life’s most basic need — clean drinking water.
+* charity:water believes that we can end the water crisis in our lifetime by ensuring that every person on the planet has access to life’s most basic need — clean drinking water.
 
 <b>Charles Schwab</b>
 
@@ -79,7 +77,8 @@ A world in which every person enjoys all of the human rights enshrined in the Un
 * To make people happy.
 
 <b>Ducks Unlimited:</b>
-* is wetlands sufficient to fill the skies with waterfowl today, tomorrow and forever.
+
+* Wetlands sufficient to fill the skies with waterfowl today, tomorrow and forever.
 
 <b>Facebook</b>
 
@@ -162,7 +161,8 @@ A world in which every person enjoys all of the human rights enshrined in the Un
 * To bring inspiration and innovation to every athlete in the world. 
 
 <b>NPR</b>
-, with its network of independent member stations, is America’s pre-eminent news institution
+
+* NPR, with its network of independent member stations, is America’s pre-eminent news institution
 
 <b>Nugget Markets</b>
 
