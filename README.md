@@ -43,6 +43,8 @@
 * <b>Oceana</b> seeks to make our oceans as rich, healthy and abundant as they once were.
 * <b>Oxfam</b>: A just world without poverty
 * <b>Patagonia</b>: Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis.
+* <b>P&G</b>: Be, and be recognized as, the best consumer products and services company in the world.
+* <b>Prezi</b>: To reinvent how people share knowledge, tell stories, and inspire their audiences to act.
 * <b>Quora</b>: Quora connections you to everything you want to know about
 * <b>Salesforce.com</b>: The end of software.
 * <b>San Diego Zoo</b>: To become a world leader at connecting people to wildlife and conservation.
@@ -51,6 +53,8 @@
 * <b>Sony</b>: Our vision is to use our passion for technology, content and services to deliver kando, in ways that only Sony can
 * <b>Special Olympics</b>: To transform communities by inspiring people throughout the world to open their minds, accept and include people with intellectual disabilities and thereby anyone who is perceived as different.
 * <b>Teach for America</b>: One day, all children in this nation will have the opportunity to attain an excellent education.
+* <b>Ted</b>: Spread ideas.
+* <b>Tesla</b>: To accelerate the world's transition to sustainable energy.
 * <b>The Nature Conservancy</b>: To leave a sustainable world for future generations.
 * <b>Trader Joe’s</b>: To bring our customers the best food and beverage values and the information to make informed buying decisions.
 * <b>VFW</b>: Ensure that veterans are respected for their service, always receive their earned entitlements, and are recognized for the sacrifices they and their loved ones have made on behalf of this great country.
