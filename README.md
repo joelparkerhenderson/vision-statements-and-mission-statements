@@ -1,6 +1,11 @@
 # Vision statements and mission statements
 
 
+## Alibaba
+
+Mission: To make it easy to do business anywhere.
+
+
 ## Amazon
 
 https://amazon.com
@@ -31,11 +36,26 @@ https://apple.come
 A computer in the hands of everyday people. (this was from their early days)
 
 
+## Asana
+
+Mission: To help humanity thrive by enabling all teams to work together effortlessly.
+
+
+## asos
+
+Mission: To become the number 1 fashion destination for 20-somethings globally.
+
+
 ## ASPCA
 
 https://www.aspca.org/
 
 That the United States is a humane community in which all animals are treated with respect and kindness.
+
+
+## BBC
+
+Mission: To enrich people’s lives with programmes and services that inform, educate and entertain.
 
 
 ## Ben & Jerry's
@@ -127,7 +147,9 @@ Nothing less than realizing the full potential of the Internet — universal acc
 
 ## Disney
 
-To make people happy.
+Vision: To make people happy.
+
+Mission: To be one of the world’s leading producers and providers of entertainment and information, using its portfolio of brands to differentiate its content, services and consumer products.
 
 
 ## Ducks Unlimited:
@@ -137,8 +159,14 @@ Wetlands sufficient to fill the skies with waterfowl today, tomorrow and forever
 
 ## Facebook
 
-People use Facebook to stay connected with friends and family, to discover what’s going on in the world, and to share and express what matters to them
+Vision: People use Facebook to stay connected with friends and family, to discover what’s going on in the world, and to share and express what matters to them
 
+Mission: To give people the power to share and make the world more open and connected.
+
+
+## Forbes
+
+Mission: To deliver information on the people, ideas and technologies changing the world to our community of affluent business decision makers.
 
 ## Feeding America
 
@@ -184,12 +212,19 @@ Capture and Share the World’s Moments
 
 ## Intel
 
-If it is smart and connected, it is best with Intel
+Vision: If it is smart and connected, it is best with Intel
+
+Mission: Utilize the power of Moore’s Law to bring smart, connected devices to every person on earth.
 
 
 ## Khan Academy
 
 To provide a free world-class education to anyone anywhere.
+
+
+## Kickstarter
+
+Mission: To help bring creative projects to life.
 
 
 ## Kiva
@@ -204,7 +239,7 @@ Cure leukemia, lymphoma, Hodgkin’s disease and myeloma, and improve the qualit
 
 ## LinkedIn
 
-To connect the world’s professionals and make them more productive and successful.
+Mission: To connect the world’s professionals and make them more productive and successful.
 
 
 ## Linux
@@ -261,6 +296,11 @@ A just world without poverty
 Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis.
 
 
+## PayPal
+
+Mission: To build the Web’s most convenient, secure, cost-effective payment solution.
+
+
 ## Quora
 
 Quora connections you to everything you want to know about
@@ -297,7 +337,9 @@ Shaping the future by preserving our heritage, discovering new knowledge, and sh
 
 ## Sony
 
-Our vision is to use our passion for technology, content and services to deliver kando, in ways that only Sony can
+Vision: Our vision is to use our passion for technology, content and services to deliver kando, in ways that only Sony can
+
+Mission: To be a company that inspires and fulfills your curiosity.
 
 
 ## Special Olympics
@@ -308,6 +350,11 @@ To transform communities by inspiring people throughout the world to open their 
 ## Teach for America
 
 One day, all children in this nation will have the opportunity to attain an excellent education.
+
+
+## Tesla
+
+Mission: Our goal when we created Tesla a decade ago was the same as it is today: to accelerate the advent of sustainable transport by bringing compelling mass market electric cars to market as soon as possible.
 
 
 ## The Nature Conservancy
@@ -328,6 +375,20 @@ Mission: Spread ideas.
 
 To bring our customers the best food and beverage values and the information to make informed buying decisions.
 
+
+## Tumblr
+
+Mission: To empower creators to make their best work and get it in front of the audience they deserve.
+
+
+## Twitter
+
+Mission: To give everyone the power to create and share ideas and information instantly, without barriers.
+
+
+## Uber
+
+Mission: Uber is evolving the way the world moves. By seamlessly connecting riders to drivers through our apps, we make cities more accessible, opening up more possibilities for riders and more business for drivers.
 
 ## VFW
 
