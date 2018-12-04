@@ -1,248 +1,359 @@
-# Vision Statements
+# Vision statements and mission statements
 
-<b>Amazon</b>
 
-* Vision: To be Earth’s most customer-centric company, where customers can find and discover anything they might want to buy online.
+## Amazon
 
-* Mission: We strive to offer our customers the lowest possible prices, the best available selection, and the utmost convenience.
+https://amazon.com
 
-<b>Amnesty International</b>
+Vision: To be Earth’s most customer-centric company, where customers can find and discover anything they might want to buy online.
 
-* A world in which every person enjoys all of the human rights enshrined in the Universal Declaration of Human Rights and other international human rights instruments.
+Mission: We strive to offer our customers the lowest possible prices, the best available selection, and the utmost convenience.
 
-<b>AOL</b>
 
-* The largest high-quality content producer for digital media – locally, regionally, nationally, and globally (as of 2011).
+## Amnesty International
 
-<b>Apple</b>
+https://amnesty.org
 
-* A computer in the hands of everyday people. (this was from their early days)
+A world in which every person enjoys all of the human rights enshrined in the Universal Declaration of Human Rights and other international human rights instruments.
 
-<b>ASPCA</b>
 
-* That the United States is a humane community in which all animals are treated with respect and kindness.
+## AOL
 
-<b>Ben & Jerry's</b>
+https://aol.com
 
-* Making the best possible ice cream, in the nicest possible way
+The largest high-quality content producer for digital media – locally, regionally, nationally, and globally (as of 2011).
 
-<b>Bi-Rite Market</b>
 
-* Creating community through food
+## Apple
 
-<b>BioBag</b>
+https://apple.come
 
-* Changing The World Without Changing The Earth
+A computer in the hands of everyday people. (this was from their early days)
 
-<b>Boy Scouts of America</b>
 
-* To prepare every eligible youth in America to become a responsible, participating citizen and leader who is guided by the Scout Oath and Law.
+## ASPCA
 
-<b>Capgemini</b>
+https://www.aspca.org/
 
-* The business value of technology comes from and through people.
+That the United States is a humane community in which all animals are treated with respect and kindness.
 
-<b>charity:water</b>
 
-* charity:water believes that we can end the water crisis in our lifetime by ensuring that every person on the planet has access to life’s most basic need — clean drinking water.
+## Ben & Jerry's
 
-<b>Charles Schwab</b>
+https://benjerry.com
 
-* Helping investors help themselves.
+Making the best possible ice cream, in the nicest possible way
 
-<b>Cleveland Clinic</b>
 
-* Striving to be the world’s leader in patient experience, clinical outcomes, research and education.
+## Bi-Rite Market
 
-<b>Clinton Foundation</b>
+https://biritemarket.com/
 
-* To implement sustainable programs that improve access worldwide to investment, opportunity, and lifesaving services now and for future generations.
+Creating community through food
 
-<b>Coinbase</b>
 
-* Vision: Digital currency will bring about more innovation, efficiency, and equality of opportunity in the world by creating an open financial system.
+## BioBag
 
-* Mission: Create an open financial system for the world.
+biobagusa.com/
 
-<b>Cold Stone Creamery</b>
+Changing The World Without Changing The Earth
 
-* The ultimate ice cream experience
 
-<b>comScore</b>
+## Boy Scouts of America
 
-* To leverage the power of the Internet to increase the effectiveness and efficiency of our clients’ sales and marketing efforts.
+https://www.scouting.org/
 
-<b>Creative Commons</b>
+To prepare every eligible youth in America to become a responsible, participating citizen and leader who is guided by the Scout Oath and Law.
 
-* Nothing less than realizing the full potential of the Internet — universal access to research and education, full participation in culture — to drive a new era of development, growth, and productivity.
 
-<b>Disney</b>
+## Capgemini
 
-* To make people happy.
+https://www.capgemini.com/
 
-<b>Ducks Unlimited:</b>
+The business value of technology comes from and through people.
 
-* Wetlands sufficient to fill the skies with waterfowl today, tomorrow and forever.
 
-<b>Facebook</b>
+## charity:water
 
-* People use Facebook to stay connected with friends and family, to discover what’s going on in the world, and to share and express what matters to them
+https://www.charitywater.org/
 
-<b>Feeding America</b>
+charity:water believes that we can end the water crisis in our lifetime by ensuring that every person on the planet has access to life’s most basic need — clean drinking water.
 
-* A hunger-free America
 
-<b>Goodwill</b>
+## Charles Schwab
 
-* Every person has the opportunity to achieve his/her fullest potential and participate in and contribute to all aspects of life.
+https://www.schwab.com/
 
-<b>Google</b>
+Helping investors help themselves.
 
-* To provide access to the world’s information in one click.
 
-<b>Habitat for Humanity</b>
+## Cleveland Clinic
 
-* A world where everyone has a decent place to live.
+https://clevelandclinic.org/
 
-<b>Human Rights Campaign</b>
+Striving to be the world’s leader in patient experience, clinical outcomes, research and education.
 
-* Equality for everyone
 
-<b>Illiteracy Program</b>
+## Clinton Foundation
 
-* In two decades our services will no longer be needed.
+https://www.clintonfoundation.org/
 
-<b>In Touch Ministries</b>
+To implement sustainable programs that improve access worldwide to investment, opportunity, and lifesaving services now and for future generations.
 
-* proclaiming the Gospel of Jesus Christ to people in every country of the world.
 
-<b>Instagram</b>
+## Coinbase
 
-* Capture and Share the World’s Moments
+https://coinbase.com
 
-<b>Intel</b>
+Vision: Digital currency will bring about more innovation, efficiency, and equality of opportunity in the world by creating an open financial system.
 
-* If it is smart and connected, it is best with Intel
+Mission: Create an open financial system for the world.
 
-<b>Khan Academy</b>
 
-* To provide a free world-class education to anyone anywhere.
+## Cold Stone Creamery
 
-<b>Kiva</b>
+The ultimate ice cream experience
 
-* We envision a world where all people – even in the most remote areas of the globe – hold the power to create opportunity for themselves and others.
 
-<b>Leukemia & Lymphoma Society</b>
+## comScore
 
-* Cure leukemia, lymphoma, Hodgkin’s disease and myeloma, and improve the quality of life of patients and their families.
+To leverage the power of the Internet to increase the effectiveness and efficiency of our clients’ sales and marketing efforts.
 
-<b>LinkedIn</b>
 
-* To connect the world’s professionals and make them more productive and successful.
+## Creative Commons
 
-<b>Linux</b>
+Nothing less than realizing the full potential of the Internet — universal access to research and education, full participation in culture — to drive a new era of development, growth, and productivity.
 
-* A free Unix and Open Source operating system.
 
-<b>Make-A-Wish</b>
+## Disney
 
-* That people everywhere will share the power of a wish
+To make people happy.
 
-<b>Microsoft</b>
 
-* A computer on every desktop and in every home (using Microsoft software)
+## Ducks Unlimited:
 
-<b>Mulholland</b>
+Wetlands sufficient to fill the skies with waterfowl today, tomorrow and forever.
 
-* We create purpose-built products for duty-driven people.
 
-<b>National Multiple Sclerosis Society</b>
+## Facebook
 
-* A World Free of MS
+People use Facebook to stay connected with friends and family, to discover what’s going on in the world, and to share and express what matters to them
 
-<b>Nike</b>
 
-* To bring inspiration and innovation to every athlete in the world. 
+## Feeding America
 
-<b>NPR</b>
+A hunger-free America
 
-* NPR, with its network of independent member stations, is America’s pre-eminent news institution
 
-<b>Nugget Markets</b>
+## Goodwill
 
-* High-quality products at low prices.
+Every person has the opportunity to achieve his/her fullest potential and participate in and contribute to all aspects of life.
 
-<b>Oceana</b>
-* seeks to make our oceans as rich, healthy and abundant as they once were.
 
-<b>Oxfam</b>
+## Google
 
-* A just world without poverty
+https://google.com
 
-<b>Patagonia</b>
+To provide access to the world’s information in one click.
 
-* Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis.
 
-<b>Quora</b>
+## Habitat for Humanity
 
-* Quora connections you to everything you want to know about
+A world where everyone has a decent place to live.
 
-<b>Salesforce.com</b>
 
-* The end of software.
+## Human Rights Campaign
 
-<b>San Diego Zoo</b>
+Equality for everyone
 
-* To become a world leader at connecting people to wildlife and conservation.
 
-<b>Save the Children</b>
+## Illiteracy Program
 
-* A world in which every child attains the right to survival, protection, development and participation.
+In two decades our services will no longer be needed.
 
-<b>Smithsonian</b>
 
-* Shaping the future by preserving our heritage, discovering new knowledge, and sharing our resources with the world
+## In Touch Ministries
 
-<b>Sony</b>
+proclaiming the Gospel of Jesus Christ to people in every country of the world.
 
-* Our vision is to use our passion for technology, content and services to deliver kando, in ways that only Sony can
 
-<b>Special Olympics</b>
+## Instagram
 
-* To transform communities by inspiring people throughout the world to open their minds, accept and include people with intellectual disabilities and thereby anyone who is perceived as different.
+Capture and Share the World’s Moments
 
-<b>Teach for America</b>
 
-* One day, all children in this nation will have the opportunity to attain an excellent education.
+## Intel
 
-<b>The Nature Conservancy</b>
+If it is smart and connected, it is best with Intel
 
-* To leave a sustainable world for future generations.
 
-<b>Trader Joe’s</b>
+## Khan Academy
 
-* To bring our customers the best food and beverage values and the information to make informed buying decisions.
+To provide a free world-class education to anyone anywhere.
 
-<b>VFW</b>
 
-* Ensure that veterans are respected for their service, always receive their earned entitlements, and are recognized for the sacrifices they and their loved ones have made on behalf of this great country.
+## Kiva
 
-<b>Walmart</b>
+We envision a world where all people – even in the most remote areas of the globe – hold the power to create opportunity for themselves and others.
 
-* To help people save money so they can live better.
 
-<b>Wikipedia</b>
+## Leukemia & Lymphoma Society
 
-* Imagine a world in which every single person is given free access to the sum of all human knowledge.
+Cure leukemia, lymphoma, Hodgkin’s disease and myeloma, and improve the quality of life of patients and their families.
 
-<b>World Vision</b>
 
-* For every child, life in all its fullness; Our prayer for every heart, the will to make it so
+## LinkedIn
 
-<b>WWF</b>
+To connect the world’s professionals and make them more productive and successful.
 
-* We seek to save a planet, a world of life. Reconciling the needs of human beings and the needs of others that share the Earth.
 
-<b>YMCA</b>
+## Linux
 
-* To put Christian principles into practice through programs that build a healthy spirit, mind and body for all
+A free Unix and Open Source operating system.
+
+
+## Make-A-Wish
+
+That people everywhere will share the power of a wish
+
+
+## Microsoft
+
+A computer on every desktop and in every home (using Microsoft software)
+
+
+## Mulholland
+
+We create purpose-built products for duty-driven people.
+
+
+## National Multiple Sclerosis Society
+
+A World Free of MS
+
+
+## Nike
+
+To bring inspiration and innovation to every athlete in the world. 
+
+
+## NPR
+
+NPR, with its network of independent member stations, is America’s pre-eminent news institution
+
+
+## Nugget Markets
+
+High-quality products at low prices.
+
+
+## Oceana
+seeks to make our oceans as rich, healthy and abundant as they once were.
+
+
+## Oxfam
+
+A just world without poverty
+
+
+## Patagonia
+
+Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis.
+
+
+## Quora
+
+Quora connections you to everything you want to know about
+
+
+## Salesforce.com
+
+The end of software.
+
+
+## San Diego Zoo
+
+To become a world leader at connecting people to wildlife and conservation.
+
+
+## San Francisco YMCA
+
+https://www.ymcasf.org
+
+Vision: Our strategic vision is that the healthiest children in America will live in the Bay Area, building the skills and habits for a healthy life, being empowered to reach their highest potential.
+
+Mission: Our mission is to build strong kids, strong families and strong communities by enriching the lives of all people in spirit, mind and body.
+
+
+## Save the Children
+
+A world in which every child attains the right to survival, protection, development and participation.
+
+
+## Smithsonian
+
+Shaping the future by preserving our heritage, discovering new knowledge, and sharing our resources with the world
+
+
+## Sony
+
+Our vision is to use our passion for technology, content and services to deliver kando, in ways that only Sony can
+
+
+## Special Olympics
+
+To transform communities by inspiring people throughout the world to open their minds, accept and include people with intellectual disabilities and thereby anyone who is perceived as different.
+
+
+## Teach for America
+
+One day, all children in this nation will have the opportunity to attain an excellent education.
+
+
+## The Nature Conservancy
+
+To leave a sustainable world for future generations.
+
+
+## TED
+
+https://ted.com
+
+Vision: We believe passionately in the power of ideas to change attitudes, lives and, ultimately, the world. On TED.com, we're building a clearinghouse of free knowledge from the world's most inspired thinkers — and a community of curious souls to engage with ideas and each other, both online and at TED and TEDx events around the world, all year long.
+
+Mission: Spread ideas.
+
+
+## Trader Joe’s
+
+To bring our customers the best food and beverage values and the information to make informed buying decisions.
+
+
+## VFW
+
+Ensure that veterans are respected for their service, always receive their earned entitlements, and are recognized for the sacrifices they and their loved ones have made on behalf of this great country.
+
+
+## Walmart
+
+To help people save money so they can live better.
+
+
+## Wikipedia
+
+Imagine a world in which every single person is given free access to the sum of all human knowledge.
+
+
+## World Vision
+
+For every child, life in all its fullness; Our prayer for every heart, the will to make it so
+
+
+## WWF
+
+We seek to save a planet, a world of life. Reconciling the needs of human beings and the needs of others that share the Earth.
+
+
+## YMCA
+
+To put Christian principles into practice through programs that build a healthy spirit, mind and body for all
