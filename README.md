@@ -83,7 +83,9 @@ Changing The World Without Changing The Earth
 
 https://www.scouting.org/
 
-To prepare every eligible youth in America to become a responsible, participating citizen and leader who is guided by the Scout Oath and Law.
+Vision: Prepare every eligible youth in America to become a responsible, participating citizen and leader who is guided by the Scout Oath and Law.
+
+Mission: To prepare young people to make ethical and moral choices over their lifetimes by instilling in them the values of the Scout Oath and Law.
 
 
 ## Capgemini
@@ -159,14 +161,28 @@ Wetlands sufficient to fill the skies with waterfowl today, tomorrow and forever
 
 ## Facebook
 
+https://www.facebook.com
+
 Vision: People use Facebook to stay connected with friends and family, to discover what’s going on in the world, and to share and express what matters to them
 
 Mission: To give people the power to share and make the world more open and connected.
 
 
+## Ferrari
+
+https://www.ferrari.com
+
+Vision: Italian Excellence that makes the world dream.
+
+Mission: We build cars, symbols of Italian excellence the world over, and we do so to win on both road and track, unique creations that fuel the Prancing Horse legend and generate a “World of Dreams and Emotions”.
+
+
 ## Forbes
 
+https://www.forbes.com
+
 Mission: To deliver information on the people, ideas and technologies changing the world to our community of affluent business decision makers.
+
 
 ## Feeding America
 
@@ -269,6 +285,8 @@ A World Free of MS
 
 ## Nike
 
+https://www.nike.com
+
 To bring inspiration and innovation to every athlete in the world. 
 
 
@@ -283,15 +301,20 @@ High-quality products at low prices.
 
 
 ## Oceana
-seeks to make our oceans as rich, healthy and abundant as they once were.
+
+Make our oceans as rich, healthy and abundant as they once were.
 
 
 ## Oxfam
+
+https://oxfam.org
 
 A just world without poverty
 
 
 ## Patagonia
+
+https://www.patagonia.com
 
 Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis.
 
@@ -303,7 +326,7 @@ Mission: To build the Web’s most convenient, secure, cost-effective payment so
 
 ## Quora
 
-Quora connections you to everything you want to know about
+Quora connects you to everything you want to know about.
 
 
 ## Salesforce.com
@@ -340,6 +363,11 @@ Shaping the future by preserving our heritage, discovering new knowledge, and sh
 Vision: Our vision is to use our passion for technology, content and services to deliver kando, in ways that only Sony can
 
 Mission: To be a company that inspires and fulfills your curiosity.
+
+
+## Starbucks
+
+Mission: To inspire and nurture the human spirit – one person, one cup and one neighborhood at a time.
 
 
 ## Special Olympics
@@ -388,19 +416,28 @@ Mission: To give everyone the power to create and share ideas and information in
 
 ## Uber
 
+https://www.uber.com
+
 Mission: Uber is evolving the way the world moves. By seamlessly connecting riders to drivers through our apps, we make cities more accessible, opening up more possibilities for riders and more business for drivers.
 
-## VFW
+
+## VFW: The Veterans of Foreign Wars of the US
+
+https://www.vfw.org
 
 Ensure that veterans are respected for their service, always receive their earned entitlements, and are recognized for the sacrifices they and their loved ones have made on behalf of this great country.
 
 
 ## Walmart
 
+https://www.walmart.com
+
 To help people save money so they can live better.
 
 
 ## Wikipedia
+
+https://www.wikipedia.org
 
 Imagine a world in which every single person is given free access to the sum of all human knowledge.
 
@@ -418,3 +455,12 @@ We seek to save a planet, a world of life. Reconciling the needs of human beings
 ## YMCA
 
 To put Christian principles into practice through programs that build a healthy spirit, mind and body for all
+
+
+## Zappos
+
+https://www.zappos.com
+
+Vision: delivering happiness to customers, employees, and vendors.
+
+Mission: provide the best customer service possible. Deliver WOW through service.
