@@ -1,6 +1,15 @@
 # Vision statements and mission statements
 
 
+## AirBNB
+
+https://www.airbnb.com
+
+Vision: Tapping into the universal human yearning to belong — the desire to feel welcomed, respected, and appreciated for who you are, no matter where you might be.
+
+Mission: Belong anywhere.
+
+
 ## Alibaba
 
 Mission: To make it easy to do business anywhere.
@@ -159,6 +168,15 @@ Mission: To be one of the world’s leading producers and providers of entertain
 Wetlands sufficient to fill the skies with waterfowl today, tomorrow and forever.
 
 
+## Ebay
+
+https://www.ebay.com
+
+Vision: Our vision for commerce is one that is enabled by people, powered by technology, and open to everyone.
+
+Mission: Our mission is to be the world’s favorite destination for discovering great value and unique selection.
+
+
 ## Facebook
 
 https://www.facebook.com
@@ -198,7 +216,9 @@ Every person has the opportunity to achieve his/her fullest potential and partic
 
 https://google.com
 
-To provide access to the world’s information in one click.
+Vision: To provide access to the world’s information in one click.
+
+Mission:  To organize the world’s information and make it universally accessible and useful.
 
 
 ## Habitat for Humanity
@@ -228,6 +248,8 @@ Capture and Share the World’s Moments
 
 ## Intel
 
+https://www.intel.com
+
 Vision: If it is smart and connected, it is best with Intel
 
 Mission: Utilize the power of Moore’s Law to bring smart, connected devices to every person on earth.
@@ -239,6 +261,8 @@ To provide a free world-class education to anyone anywhere.
 
 
 ## Kickstarter
+
+https://www.kickstarter.com
 
 Mission: To help bring creative projects to life.
 
@@ -255,7 +279,11 @@ Cure leukemia, lymphoma, Hodgkin’s disease and myeloma, and improve the qualit
 
 ## LinkedIn
 
-Mission: To connect the world’s professionals and make them more productive and successful.
+https://www.linkedin.com
+
+Vision: Create economic opportunity for every member of the global workforce.
+
+Mission: Connect the world’s professionals to make them more productive and successful.
 
 
 ## Linux
@@ -332,6 +360,15 @@ Quora connects you to everything you want to know about.
 ## Salesforce.com
 
 The end of software.
+
+
+## Samsung
+
+https://www.samsung.com
+
+Vision: Inspire the world. Create the future.
+
+Mission: Inspire the world with our innovative technologies, products and design that enrich people’s lives and contribute to social prosperity by creating a new future.
 
 
 ## San Diego Zoo
@@ -433,6 +470,15 @@ Ensure that veterans are respected for their service, always receive their earne
 https://www.walmart.com
 
 To help people save money so they can live better.
+
+
+## Whole Foods
+
+https://www.wholefoods.com
+
+Vision: Whole foods, Whole People, Whole Planet.
+
+Mission: Our purpose is to nourish people and the planet. We’re a purpose-driven company that aims to set the standards of excellence for food retailers. Quality is a state of mind at Whole Foods Market.
 
 
 ## Wikipedia
