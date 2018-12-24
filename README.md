@@ -211,6 +211,8 @@ A hunger-free America
 
 Every person has the opportunity to achieve his/her fullest potential and participate in and contribute to all aspects of life.
 
+To put Christian principles into practice through programs that build a healthy spirit, mind and body for all
+
 
 ## Google
 
@@ -350,6 +352,16 @@ Build the best product, cause no unnecessary harm, use business to inspire and i
 ## PayPal
 
 Mission: To build the Web’s most convenient, secure, cost-effective payment solution.
+
+
+## Prezi
+
+To reinvent how people share knowledge, tell stories, and inspire their audiences to act.
+
+
+## Procter &amp; Gamble 
+
+Be, and be recognized as, the best consumer products and services company in the world.
 
 
 ## Quora
