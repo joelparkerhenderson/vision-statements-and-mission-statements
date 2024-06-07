@@ -436,6 +436,8 @@ One day, all children in this nation will have the opportunity to attain an exce
 
 ## Tesla
 
+Vision: Create the most compelling car company of the 21st century.
+
 Mission: to accelerate the world’s transition to sustainable energy.
 
 
