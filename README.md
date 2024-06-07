@@ -118,6 +118,13 @@ https://www.schwab.com/
 Helping investors help themselves.
 
 
+## Chipotle
+
+https://chipotle.com
+
+We believe that food has the power to change the world.
+
+
 ## CISCO
 
 Changing the Way We Work, Live, Play and Learn.
