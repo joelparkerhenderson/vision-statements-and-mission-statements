@@ -200,6 +200,13 @@ Vision: Italian Excellence that makes the world dream.
 Mission: We build cars, symbols of Italian excellence the world over, and we do so to win on both road and track, unique creations that fuel the Prancing Horse legend and generate a “World of Dreams and Emotions”.
 
 
+### Figma:
+
+https://figma.com
+
+Make design accessible to everyone.
+
+
 ## Forbes
 
 https://www.forbes.com
