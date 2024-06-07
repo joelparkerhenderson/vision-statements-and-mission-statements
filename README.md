@@ -514,6 +514,13 @@ https://www.walmart.com
 To help people save money so they can live better.
 
 
+## Warby Parker
+
+https://warbyparker.com
+
+We believe that buying glasses should be easy and fun. It should leave you happy and good-looking, with money in your pocket. We also believe that everyone has the right to see.
+
+
 ## Whole Foods
 
 https://www.wholefoods.com
