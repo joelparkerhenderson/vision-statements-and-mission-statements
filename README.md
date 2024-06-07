@@ -472,6 +472,8 @@ Mission: To give everyone the power to create and share ideas and information in
 
 https://www.uber.com
 
+Vision: We reimagine the way the world moves for the better.
+
 Mission: Uber is evolving the way the world moves. By seamlessly connecting riders to drivers through our apps, we make cities more accessible, opening up more possibilities for riders and more business for drivers.
 
 
