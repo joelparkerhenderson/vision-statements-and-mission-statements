@@ -24,6 +24,11 @@ Vision: To be Earth’s most customer-centric company, where customers can find 
 Mission: We strive to offer our customers the lowest possible prices, the best available selection, and the utmost convenience.
 
 
+## American Red Cross
+
+Mission: Prevent and alleviate human suffering in the face of emergencies by mobilizing the power of volunteers and the generosity of donors.
+
+
 ## Amnesty International
 
 https://amnesty.org
@@ -518,8 +523,9 @@ To help people save money so they can live better.
 
 https://warbyparker.com
 
-We believe that buying glasses should be easy and fun. It should leave you happy and good-looking, with money in your pocket. We also believe that everyone has the right to see.
+Vision: We believe that buying glasses should be easy and fun. It should leave you happy and good-looking, with money in your pocket. We also believe that everyone has the right to see.
 
+Mission: Offer designer eyewear at a revolutionary price, while leading the way for socially conscious businesses.
 
 ## Whole Foods
 
